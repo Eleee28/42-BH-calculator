@@ -9,7 +9,7 @@ This is a simple calculator to obtain the blackhole days given by a project, tak
 
 ## How to use
 
-1. Clone the repository and go to the java folder
+1. Clone the repository
 2. Run ```make r``` to compile and execute the project
 
 ## Credits
